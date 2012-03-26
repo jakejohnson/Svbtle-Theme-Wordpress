@@ -253,6 +253,7 @@ article .entry-content p{line-height: 1.9em}
 article .entry-content a{border-bottom: 1px solid #ccc; padding-bottom: 2px}
 article .entry-content blockquote{border-left: 8px solid #0084ca; margin-left: 0; padding-left: 1.4em}
 
+article .entry-content img{max-width: 100%; width: auto; height: auto}
 
 .links {margin-top: 2em}
 .links a{display: inline-block; color: #999; clear: both; border: 2px solid #ccc; border-radius: 100px; padding: .4em 1em}
